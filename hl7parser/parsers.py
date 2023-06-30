@@ -1,3 +1,9 @@
+"""
+Converting HL7 messages to dictionaries
+
+http://www.prschmid.com/2016/11/converting-adt-hl7-message-to-json.html
+"""
+
 import json
 from typing import Any, Union
 
