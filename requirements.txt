@@ -1,0 +1,4 @@
+hl7apy==1.3.4  # https://github.com/crs4/hl7apy
+
+# CLI
+typer==0.9.0  # https://github.com/tiangolo/typer
