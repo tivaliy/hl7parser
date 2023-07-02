@@ -6,7 +6,7 @@ Library for parsing HL7 messages into various formats.
 
 1. Clone the repository:
 
-        $ git clone git@bitbucket.org:e2fdev/hl7parser.git
+        $ git clone https://github.com/tivaliy/hl7parser.git
 
 2. Install the package:
 
